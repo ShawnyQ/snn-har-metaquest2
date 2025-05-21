@@ -95,17 +95,21 @@ Can SNNs accurately classify three types of strength-based exercises — **bicep
 4. **Alternatively, explore the project in Jupyter Notebook**
    ```bash
    notebooks/snn_har_pipeline.ipynb
-snn-har-metaquest2/
- ┣ data/            # Raw & processed sensor data
- ┣ notebooks/       # Full Jupyter pipeline
- ┣ src/             # Custom SNN architecture & training code
- ┣ results/         # Metrics, logs, confusion matrices
- ┣ run_crossval.py  # Training & evaluation entry point
- ┣ requirements.txt # Environment dependencies
- ┗ README.md
+   
+---
 
- ---
-
-### 📄 License
+## 📄 License
 - This project is licensed under the MIT License.
 - You are free to use, modify, and distribute it with proper attribution.
+
+---
+
+## 👨‍💻 Author
+
+**Shawn Waringu**  
+Data Scientist & Analyst
+
+[LinkedIn](https://www.linkedin.com/in/shawn-chege-856048312)
+[GitHub](https://github.com/ShawnyQ)
+
+---
